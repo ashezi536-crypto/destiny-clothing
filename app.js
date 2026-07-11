@@ -2,7 +2,7 @@ const products=[
  {name:'Destiny Heavyweight Hoodie',price:300,tag:'NEW',image:'andile.jpg?auto=format&fit=crop&w=700&q=85'},
  {name:'D-01 Signature Tee',price:160,tag:'BEST SELLER',image:'full1.png?auto=format&fit=crop&w=700&q=85'},
  {name:'Destiny shorts',price:210,tag:'NEW',image:'shorts.jpg?auto=format&fit=crop&w=700&q=85'},
- {name:'Nocturne Varsity Jacket',price:2199,tag:'LIMITED',image:'https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=700&q=85'}
+ {name:'Destiny sweater',price:300,tag:'ELITE',image:'ht.jpg?auto=format&fit=crop&w=700&q=85'}
 ];
 let cart=[],wishlist=0,fit=[];const money=n=>'R'+n.toLocaleString('en-ZA');
 const grid=document.querySelector('#productGrid');grid.innerHTML=products.map((p,i)=>`<article class="product-card"><div class="product-image"><img src="${p.image}" alt="${p.name}"><span class="product-tag">${p.tag}</span><button class="wish" data-wish="${i}" aria-label="Add to wishlist">♡</button></div><div class="product-info"><h3>${p.name}</h3><strong>${money(p.price)}</strong><p>Oversized fit</p></div><button class="button quick" data-add="${i}">Add to bag</button></article>`).join('');
