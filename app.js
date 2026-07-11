@@ -1,5 +1,5 @@
 const products=[
- {name:'Destiny Heavyweight Hoodie',price:300,tag:'NEW',image:'destinyw.jpg/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=700&q=85'},
+ {name:'Destiny Heavyweight Hoodie',price:300,tag:'NEW',image:'andile.jpg/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=700&q=85'},
  {name:'D-01 Signature Tee',price:699,tag:'BEST SELLER',image:'https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=700&q=85'},
  {name:'Concrete Cargo Pant',price:1499,tag:'NEW',image:'https://images.unsplash.com/photo-1506629905607-d405b7a30db9?auto=format&fit=crop&w=700&q=85'},
  {name:'Nocturne Varsity Jacket',price:2199,tag:'LIMITED',image:'https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=700&q=85'}
