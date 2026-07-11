@@ -1,6 +1,6 @@
 const products=[
  {name:'Destiny Heavyweight Hoodie',price:300,tag:'NEW',image:'andile.jpg?auto=format&fit=crop&w=700&q=85'},
- {name:'D-01 Signature Tee',price:160,tag:'BEST SELLER',image:'full1.png?auto=format&fit=crop&w=700&q=85'},
+ {name:'Destiny T-shirt',price:160,tag:'BEST SELLER',image:'full1.png?auto=format&fit=crop&w=700&q=85'},
  {name:'Destiny shorts',price:210,tag:'NEW',image:'shorts.jpg?auto=format&fit=crop&w=700&q=85'},
  {name:'Destiny sweater',price:300,tag:'ELITE',image:'ht.jpg?auto=format&fit=crop&w=700&q=85'}
 ];
